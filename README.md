@@ -4,18 +4,12 @@ This is a [Xanadu tutorial](https://pennylane.ai/qml/demos/tutorial_variational_
 
 This tutorial is made up of 2 parts
 
-- [ ] Fitting the parity function:
-    Here we have to fir a parity function that has the form 
-    $$f : x\in \{0,1\} ^{\otimes n} \rightarrow y = \left\{\begin{array}{lll}
-    1& \text{if uneven number of ones in } x\\
-    0 &\text{otherwise}
-    \end{array} \right.$$
-
+- [x] Fitting the parity function
     For this I will have to:
-    - [ ] Create the quantum device and build up the circuit.
-    - [ ] Define the Cost function. 
-    - [ ] Optimice the classifier with the training data.
-    - [ ] Then run and test the classifier.
+    - [x] Create the quantum device and build up the circuit.
+    - [x] Define the Cost function. 
+    - [x] Optimice the classifier with the training data.
+    - [x] Then run and test the classifier.
 
 - [ ] Iris Classification
     - [ ] Create the quantum device and build up the circuit.
