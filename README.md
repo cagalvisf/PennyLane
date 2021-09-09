@@ -11,9 +11,9 @@ This tutorial is made up of 2 parts
     - [x] Optimice the classifier with the training data.
     - [x] Then run and test the classifier.
 
-- [ ] Iris Classification
-    - [ ] Create the quantum device and build up the circuit.
-    - [ ] Load the Iris data set. 
-    - [ ] Optimice the classifier with the training data.
-    - [ ] Then run and test the classifier.
+- [x] Iris Classification
+    - [x] Create the quantum device and build up the circuit.
+    - [x] Load the Iris data set. 
+    - [x] Optimice the classifier with the training data.
+    - [x] Then run and test the classifier.
 
