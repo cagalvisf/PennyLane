@@ -1,4 +1,4 @@
-#PennyLane tutorials
+# PennyLane tutorials
 This repository contains different tutorials that I have been following in order to learn how to use the Xanadu's Quantum Computing library called [PennyLane](https://pennylane.ai/). Here I am covering different tutorials of my personal interest, in particular those focused in Quantum Machine Learning tools.
 
 ## Quantum Variational classifier
