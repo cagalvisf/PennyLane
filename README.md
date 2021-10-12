@@ -22,3 +22,13 @@ This tutorial is made up of 2 parts
 
 ## Variational Quantum Eigensolver
 
+This is a method used to find the quantum states of a quantum system using variational methods. Such as those used in analytical mechanics when you are minimizing the variation of an action. In this case we are going to use this method to find the ground state energy of a molecule following the [tutorial](https://pennylane.ai/qml/demos/tutorial_vqe.html) offered by Xanadú using PennyLane.
+
+* [x] Build the electronic Hamiltonian
+    * [x] Specify the properties of the molecular state of interest; its geometry, charge and multiplicity.
+    * [x] Give the basis set used to approximate the atomic orbitals.
+    * [x] Compute the Hamiltonian of the molecule in the Pauli basis.
+* [x] Implement the VQE algorithm
+    * [x] Create the quantum device and build up the circuit.
+    * [x] Define the cost function to be minimized.
+    * [x] Run the algorithm and check that the ground state corresponds to the ground state of the molecule.
